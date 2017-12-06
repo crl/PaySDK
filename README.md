@@ -1,2 +1,2 @@
 # PaySDK
-lingyu recipt sdk pay
+lingyu receive sdk pay
